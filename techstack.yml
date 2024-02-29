@@ -1,0 +1,177 @@
+repo_name: 2lambda123/DragGAN
+report_id: c0b4dc4eea252d107737f42b12158bbd
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:17:05+00:00'
+requested_by: XingangPan
+provider: github
+branch: main
+detected_tools_count: 14
+tools:
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/2lambda123/DragGAN
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/2lambda123/DragGAN
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/DragGAN
+  detection_source: Repo Metadata
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/DragGAN/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Xingang Pan
+  last_updated_on: 2023-06-26 03:55:25.000000000 Z
+- name: pip
+  description: A package installer for Python
+  website_url: https://pypi.org/project/pip/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5559/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/DragGAN/blob/main/environment.yml
+  detection_source: environment.yml
+  last_updated_by: Xingang Pan
+  last_updated_on: 2023-06-25 09:20:59.000000000 Z
+- name: Pillow
+  description: Python Imaging Library
+  website_url: https://python-pillow.github.io/
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: Image Processing and Management
+  image_url: https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg
+  detection_source_url: https://github.com/2lambda123/DragGAN/blob/main/environment.yml
+  detection_source: environment.yml
+  last_updated_by: ochafik
+  last_updated_on: 2023-06-26 23:57:36.000000000 Z
+- name: CUDA
+  description: It provides everything you need to develop GPU-accelerated applications
+  website_url: http://www.nvidia.com/object/cuda_home_new.html
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Machine Learning Tools
+  image_url: https://img.stackshare.io/service/2836/LUOWehvo_400x400.jpeg
+  detection_source_url: https://github.com/2lambda123/DragGAN
+  detection_source: Repo Metadata
+- name: NumPy
+  description: Fundamental package for scientific computing with Python
+  website_url: http://www.numpy.org/
+  version: '1.25'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
+  detection_source_url: https://github.com/2lambda123/DragGAN/blob/main/environment.yml
+  detection_source: environment.yml
+  last_updated_by: Xingang Pan
+  last_updated_on: 2023-06-25 09:20:59.000000000 Z
+- name: PyTorch
+  description: A deep learning framework that puts Python first
+  website_url: http://pytorch.org/
+  version: 2.0.1
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Machine Learning Tools
+  image_url: https://img.stackshare.io/service/8171/YYpjkbVn_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/DragGAN/blob/main/environment.yml
+  detection_source: environment.yml
+  last_updated_by: ochafik
+  last_updated_on: 2023-06-26 23:57:36.000000000 Z
+- name: Requests
+  description: Elegant and simple HTTP library for Python
+  website_url: http://docs.python-requests.org/en/latest/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Data Transfer
+  image_url: https://img.stackshare.io/service/10242/default_10e3fd58c910dc0c4241bc273a7235a0aa4197dd.png
+  detection_source_url: https://github.com/2lambda123/DragGAN/blob/main/environment.yml
+  detection_source: environment.yml
+  last_updated_by: Xingang Pan
+  last_updated_on: 2023-06-25 09:20:59.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/2lambda123/DragGAN
+  detection_source: Repo Metadata
+- name: Torch
+  description: An open-source machine learning library and a script language based
+    on the Lua programming language
+  website_url: http://torch.ch/
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Machine Learning Tools
+  image_url: https://img.stackshare.io/service/4475/hpYQzO_U_400x400.png
+  detection_source_url: https://github.com/2lambda123/DragGAN/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Xingang Pan
+  last_updated_on: 2023-06-26 03:55:25.000000000 Z
+- name: glfw
+  description: A ctypes-based wrapper for GLFW3
+  package_url: https://pypi.org/project/glfw
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/2lambda123/DragGAN/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Kelvin Clien
+  last_updated_on: 2023-06-26 18:49:00.000000000 Z
+- name: huggingface-hub
+  description: Client library to download and publish models
+  package_url: https://pypi.org/project/huggingface-hub
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/2lambda123/DragGAN/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Xingang Pan
+  last_updated_on: 2023-06-26 03:55:25.000000000 Z
